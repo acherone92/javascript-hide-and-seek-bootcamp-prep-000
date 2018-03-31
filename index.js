@@ -20,7 +20,7 @@ function deepestChild(){
   var current = gN.firstChild();
   var next = current;
   while (current){
-    
+    next = current.
   }
   }
 }
