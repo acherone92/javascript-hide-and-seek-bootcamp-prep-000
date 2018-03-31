@@ -22,5 +22,5 @@ function deepestChild(){
   while (current){
     next = current.
   }*/
-  return gN[gN.length+1];
+  return gN[gN.length + 1];
 }
