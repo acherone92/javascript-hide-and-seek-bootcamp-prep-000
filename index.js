@@ -23,5 +23,4 @@ function deepestChild(){
     next = current.
   }*/
   return gN[gN.length+1];
-  }
 }
